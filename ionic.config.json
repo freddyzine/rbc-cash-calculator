@@ -1,0 +1,8 @@
+{
+  "name": "RBC Cash Calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b9763fe3"
+}
